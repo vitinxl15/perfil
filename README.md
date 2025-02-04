@@ -8,23 +8,19 @@
 </td>
 </table>
 <div>
-  # Sobre mim 💻
-  <br>
- cursando tecnico em desenvolvimento de sistemas 💻🎓
+  # Sobre mim 💻 <br>
+ cursando tecnico em desenvolvimento de sistemas 💻🎓<br>
 </div>
 <div>
   <br><br>
-  # 💡Área de interesse
-  <br>
-💻 Desenvolvimento de Software
-  <br>
-🤖 Inteligência  artificial
+  # 💡Área de interesse<br>
+💻 Desenvolvimento de Software <br>
+🤖 Inteligência  artificial<br>
 </div>
 <br>
 <div>
   <br><br>
-  📱 Contato
-  <br>
+  📱 Contato<br>
   <table>
     <td>
       <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-0a4325267/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -32,8 +28,16 @@
     <td>
     <a href="https://github.comvitinxl15/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </td>
+    </table>
+    </div>
+      Linguagens
+      <table>
       <td>
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
       </td>
+    </table>
+      <div>
   </table>
 </div>
